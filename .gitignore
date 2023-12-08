@@ -4,4 +4,5 @@
 .gitattributes
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+https://github.com/liciemw/Microsoft-s-Movie-Studio-Project/blob/main/presentation%20(5).pdf
 # Add other file types as needed
